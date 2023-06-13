@@ -1,4 +1,3 @@
 import "./scss/index.scss";
-import { gg } from "./module";
-gg();
-console.log("Hi");
+
+console.log("Hi sfgfd");
